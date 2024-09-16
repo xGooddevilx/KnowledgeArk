@@ -28,6 +28,5 @@ This algorithm counts the number of these steps needed to make the words the sam
   - Several replacements and insertions → Higher edit distance
 
 So yeah, it’s a way to measure how similar or different two words are based on how much you need to change them.
-Here’s the updated README with the Wikipedia link added:
 
 For more information, you can check out the [Wikipedia page on Edit Distance](https://en.wikipedia.org/wiki/Edit_distance).
