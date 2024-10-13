@@ -17,7 +17,7 @@ This archive is designed to be clear and easy to navigate, making it a useful re
 
 ## 🧠 Topics Covered
 
-- **Coding**: Solutions, patterns, and examples in languages like JavaScript, TypeScript, and more.
+- **Coding**: Patterns, best practies and examples in languages like JavaScript, TypeScript, and more.
 - **Web Development**: Resources and insights on Next.js, React, Tailwind CSS, etc.
 - **Testing**: Guides and setups for end-to-end testing with Playwright, Cucumber, and BDD practices.
 - **Other Subjects**: Notes on philosophy, writing, and more.
