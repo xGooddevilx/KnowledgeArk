@@ -29,7 +29,3 @@ This repository is my personal learning hub, created to track my progress and co
 ## 🚀 How to Use
 
 Feel free to explore the folders and topics within this archive. Whether you're looking for a quick coding solution, a philosophical idea, or a writing tip, **KnowledgeArk** is meant to provide clear, concise, and practical insights.
-
-## 🤝 Contributing
-
-This is a personal project, but if you'd like to offer improvements or suggest new ideas, feel free to open an issue or submit a pull request!
