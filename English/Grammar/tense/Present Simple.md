@@ -1,6 +1,3 @@
-That’s great work — your notes already cover the main points about the **Present Simple Tense**!  
-Here’s a polished and corrected version with clear formatting and natural grammar:
-
 
 ## **Present Simple Tense**
 
