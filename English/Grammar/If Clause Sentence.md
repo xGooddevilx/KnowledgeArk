@@ -17,4 +17,4 @@ Third Type, in theory, its possible to fulfill
 e.g. **If I warmed up, I wouldn't injure**
 
 Last type, its not possible to fulfill because its too late
-e.g. **If I had saved money from my birthdays, I might have been rich.**
+e.g. **If I had saved money, I might have been rich.**
